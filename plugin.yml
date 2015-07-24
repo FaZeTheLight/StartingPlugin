@@ -1,5 +1,5 @@
 name: TestPlugin
 author: FazeTheLight
-main: test/Main
-API: 1.0.0
+main: StartingPlugin/Main
+API: [1.0.0]
 version: 1.0
